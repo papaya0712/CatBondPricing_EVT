@@ -5,3 +5,5 @@ __pycache__/
 .vscode/
 convert_to_feather.py
 .csv
+earthquakes_us_1950-1987.feather
+earthquakes_us_1988-2010.feather
